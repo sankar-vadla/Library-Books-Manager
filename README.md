@@ -6,7 +6,6 @@ A simple interface was developed using Tkinter module for librarians to access b
 Enabled librarians to search for book availability, and add student details regarding borrowing and lending. 
 <br>
 <h2>Overview</h2>
-<br>
 <ul>
   <li>Starts with authentication window requiring librarian's details.</li>
   <li>After entering credentials, home page opens.</li>
